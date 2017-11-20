@@ -24,8 +24,6 @@ class SRM:
     def img_grad(self):
         a = 1
 
-test line????
-
 if __name__ == "__main__":
     print("SRM begins!")
 
