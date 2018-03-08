@@ -2,7 +2,7 @@ import numpy as np
 
 def fspecial(type_name, p2 = None, p3 = None):
     """
-    create prdefined 2-D filter of matlab style
+    create pre defined 2-D filter of matlab style
 
     Gaussin low pass filter.
     fspecial("gaussian", p2 = hsize, p3 = sigma)
